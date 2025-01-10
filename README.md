@@ -1,4 +1,4 @@
-# RE-ROADMAP
+# RE ANDROID ROADMAP
 My Reverse Engineering / Android syllabus is subject to updates as needed. The years and quarters mentioned are hypothetical.
 
 ### **Year 1: Foundations and System Security**
