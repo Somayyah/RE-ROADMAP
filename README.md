@@ -3,17 +3,21 @@ My Reverse Engineering / Android syllabus is subject to updates as needed. The y
 
 ### **Year 1: Foundations and System Security**
 
-#### <span style="color:red">Quarter 1 (Months 1–3): Linux Fundamentals and Security Hardening</span>.
+#### Quarter 1 (Months 1–3): Linux Fundamentals and Security Hardening.
 
-- **<span style="color:red">Key Topics</span>:
+- **Key Topics**
 
-    - <span style="color:red">Linux basics (file systems, processes, permissions, commands).</span>
+    - ✅ Linux basics (file systems, processes, permissions, commands). 
     - Basic **networking** on Linux (iptables, SSH, DNS, etc.).
     - **Security fundamentals**: User management, sudoers, firewalls.
     - Security tools for auditing: **Lynis**, **Chkrootkit**, **OpenVAS**.
     - Basic hardening techniques: **SELinux**, **AppArmor**, securing SSH.
 - **Tools to Learn**:
-    - **Nmap**, **Wireshark**, **Metasploit**, **Lynis**, **Fail2Ban**.
+    - ✅ **Nmap**
+    - ✅ **Wireshark**
+    - ✅ **Metasploit**
+    - **Lynis**
+    - **Fail2Ban**.
 - **Hands-On Project**:
     - Set up a **secure Linux environment** with hardening practices (e.g., SELinux/AppArmor, firewall rules).
     - Perform a full **security audit** on the system using auditing tools.
